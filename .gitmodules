@@ -1,0 +1,3 @@
+[submodule "LP-Python"]
+	path = LP-Python
+	url = https://github.com/gabiacuna/LP-Python.git
